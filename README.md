@@ -12,3 +12,10 @@ This repository contains configuration notes and scripts for building a full ent
 - Configuration Profiles, Compliance Policies, and App Deployment
 
 Automation scripts will be added here as the lab progresses.
+
+
+## Scripts included
+
+- `graph-connect.ps1` – Connects to Microsoft Graph and lists Azure AD users.
+- `get-autopilot-hash.ps1` – Exports the Windows Autopilot hardware hash for a device.
+- `intune-device-report.ps1` – Lists Intune managed devices using Microsoft Graph.
